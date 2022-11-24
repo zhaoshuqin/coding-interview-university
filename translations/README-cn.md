@@ -439,25 +439,25 @@
         - 这是一本简短的书，但是它将使你更好地使用 C 语言，并且如果你稍加练习，就会很快熟练。理解 C 可帮助你了解程序和内存的工作方式
         - 问题答案
 
-- [ ] **计算机是如何处理一段程序：**
-    - [ ] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [计算机如何计算（视频）](https://youtu.be/1I5ZMmrOfnA)
-    - [ ] [寄存器和内存（视频）](https://youtu.be/fpnE6UAfbtU)
-    - [ ] [中央处理单元（视频）](https://youtu.be/FZGugFqdr60)
-    - [ ] [指令和程序（视频）](https://youtu.be/zltgXvg6r3k)
+- [x] **计算机是如何处理一段程序：**
+    - [x] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [x] [计算机如何计算（视频）](https://youtu.be/1I5ZMmrOfnA)
+    - [x] [寄存器和内存（视频）](https://youtu.be/fpnE6UAfbtU)
+    - [x] [中央处理单元（视频）](https://youtu.be/FZGugFqdr60)
+    - [x] [指令和程序（视频）](https://youtu.be/zltgXvg6r3k)
 
 ## 算法复杂度 / Big-O / 渐进分析法
 
 - 并不需要实现
 - 这里有很多视频，看到你真正了解它为止。你随时可以回来复习。
 - 如果这些课程太过数学的话，你可以去看看最下面离散数学的视频，它能让你更了解这些数学背后的来源以及原理。
-- [ ] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] Skiena 算法：
+- [x] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] Skiena 算法：
     - [视频](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [幻灯片](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
-- [ ] [对于算法复杂度分析的一次详细介绍](http://discrete.gr/complexity/)
+- [x] [对于算法复杂度分析的一次详细介绍](http://discrete.gr/complexity/)
 - [ ] [增长阶数（Orders of Growth）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/59)
 - [ ] [渐进性（Asymptotics）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/61)
 - [ ] [UC Berkeley Big O（视频）](https://youtu.be/VIS4YDpuP98)
@@ -473,7 +473,7 @@
 
 - ### 数组（Arrays）
     - 实现一个可自动调整大小的动态数组。
-    - [ ] 介绍：
+    - [x] 介绍：
         - [数组（视频）](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [UC Berkeley CS61B - 线性数组和多维数组（视频）](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE)（从15分32秒开始）
         - [动态数组（视频）](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
@@ -1337,10 +1337,10 @@
 
     *****************************************************************************************************
     *****************************************************************************************************
-
+    
     下面的内容都是可选的。
     通过学习这些内容，你将会得到更多的有关 CS 的概念，并将为所有的软件工程工作做更好的准备。你将会成为一个更全面的软件工程师。
-
+    
     *****************************************************************************************************
     *****************************************************************************************************
 
@@ -1709,7 +1709,7 @@
 --
 
 ## 一些主题的额外内容
- 
+
     我为前面提到的某些主题增加了一些额外的内容，之所以没有直接添加到前面，是因为这样很容易导致某个主题内容过多。毕竟你想在本世纪找到一份工作，对吧？
 
 - SOLID
